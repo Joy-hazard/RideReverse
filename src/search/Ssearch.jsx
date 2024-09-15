@@ -16,10 +16,15 @@ const Ssearch = () => {
               className="w-full appearance-none text-neutral-800 dark:text-neutral-100 placeholder:text-neutral-400 dark:placeholder:text-neutral-600 bg-neutral-200/60 dark:bg-neutral-900/60 px-3 h-12 border border-gray-200 dark:border-neutral-900 rounded-md focus:outline-none"
             >
               <option value="">Select Location</option>
-              <option value="location1">Location 1</option>
-              <option value="location2">Location 2</option>
-              <option value="location3">Location 3</option>
-              <option value="location4">Location 4</option>
+              <option value="location1">Dhaka - Sayedabad</option>
+              <option value="location1">Dhaka - Gulistan</option>
+              <option value="location1">Dhaka - Mohakhali</option>
+              <option value="location2">Chattogram</option>
+              <option value="location3">Rajshahi</option>
+              <option value="location4">Sylhet</option>
+              <option value="location4">Khunla</option>
+              <option value="location4">Dinajpur</option>
+              <option value="location4">Rangpur</option>
             </select>
           </div>
 
@@ -33,10 +38,15 @@ const Ssearch = () => {
               className="w-full appearance-none text-neutral-800 dark:text-neutral-100 placeholder:text-neutral-400 dark:placeholder:text-neutral-600 bg-neutral-200/60 dark:bg-neutral-900/60 px-3 h-12 border border-gray-200 dark:border-neutral-900 rounded-md focus:outline-none"
             >
               <option value="">Select Location</option>
-              <option value="location5">Location 5</option>
-              <option value="location6">Location 6</option>
-              <option value="location7">Location 7</option>
-              <option value="location8">Location 8</option>
+              <option value="location1">Dhaka - Sayedabad</option>
+              <option value="location1">Dhaka - Gulistan</option>
+              <option value="location1">Dhaka - Mohakhali</option>
+              <option value="location2">Chattogram</option>
+              <option value="location3">Rajshahi</option>
+              <option value="location4">Sylhet</option>
+              <option value="location4">Khunla</option>
+              <option value="location4">Dinajpur</option>
+              <option value="location4">Rangpur</option>
             </select>
           </div>
 
